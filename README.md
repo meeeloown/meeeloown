@@ -61,8 +61,8 @@
 
 ###
 
-<h1 align='center' style="color: red;">Welcome to My Profile!</h1>
-<div align="center">
+<h1 align='left' style="color: red;">Welcome to My Profile!</h1>
+<div align="left">
    
 ### About Me 📄
 * 😎 My name is **Alvalen**
