@@ -1,4 +1,4 @@
-<br clear="both">
+<img width="400" height="244" alt="image" src="https://github.com/user-attachments/assets/ab2e4021-2cc7-409b-8d26-55d6dd295d7c" /><img width="400" height="244" alt="image" src="https://github.com/user-attachments/assets/d46af924-391d-4d14-809f-1b5a96aac563" /><br clear="both">
 
 ###
 
@@ -23,17 +23,16 @@
   <img width="12" />
   <img src="https://www.arduino.cc/wiki/static/0e958b481fb57049d781f50ab358a2cb/0b533/ArduinoCommunityLogo-up.png" height="30" alt="Arduino Community logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg" height="30" alt="solidwork logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://8z1xg04k.tinifycdn.com/images/cx-programmer_v9.1_prod.jpg?resize.method=fit&resize.width=400&resize.height=400" height="30" alt="CX Programmer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
 ### Stats ⚡
