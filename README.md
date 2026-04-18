@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://8z1xg04k.tinifycdn.com/images/cx-programmer_v9.1_prod.jpg?resize.method=fit&resize.width=400&resize.height=400" height="30" alt="CX Programmer logo"  />
+  <img src="https://8z1xg04k.tinifycdn.com/images/cx-programmer_v9.1_prod.jpg" height="30" alt="CX Programmer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
