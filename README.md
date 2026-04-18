@@ -65,14 +65,14 @@
 <div align="left">
    
 ### About Me 📄
-* 😎 My name is **Alvalen**
+* 😎 My name is **meeeloown**
 * 🌱 I’m currently learning Embedded Systems and Robotics Enthusiast
-* 👨‍💻 My portofolio avalible at: https://
+<!--* 👨‍💻 My portofolio avalible at: https:// -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -96,5 +96,4 @@
 </div>
 
 ### Stats ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvalens&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeeloown&layout=compact&theme=transparent)
