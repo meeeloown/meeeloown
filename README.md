@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" height="30" alt="ESP logo"  />
   <img width="12" />
-  <img src="https://www.arduino.cc/wiki/static/0e958b481fb57049d781f50ab358a2cb/0b533/ArduinoCommunityLogo-up.png"30" alt="Arduino Community logo"  />
+  <img src="https://www.arduino.cc/wiki/static/0e958b481fb57049d781f50ab358a2cb/0b533/ArduinoCommunityLogo-up.png" height="30" alt="Arduino Community logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
   <img width="12" />
