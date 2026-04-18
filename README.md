@@ -1,5 +1,3 @@
-<img width="400" height="244" alt="image" src="https://github.com/user-attachments/assets/ab2e4021-2cc7-409b-8d26-55d6dd295d7c" /><img width="400" height="244" alt="image" src="https://github.com/user-attachments/assets/d46af924-391d-4d14-809f-1b5a96aac563" /><br clear="both">
-
 ###
 
 <h1 align='left' style="color: red;"> Hi👋| Welcome to My Profile</h1>
@@ -29,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="" height="30" alt="CX Programmer logo"  />
+  <img src="https://8z1xg04k.tinifycdn.com/images/cx-programmer_v9.1_prod.jpg" height="30" alt="CX Programmer logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
