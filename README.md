@@ -17,11 +17,11 @@
   <img width="12" />
   <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20260401142423806.svg" height="30" alt="MATLAB logo"  />
   <img width="12" />
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="30" alt="css3 logo"  />
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="30" alt="ipynb/jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
+  <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" height="30" alt="ESP logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://www.arduino.cc/wiki/static/0e958b481fb57049d781f50ab358a2cb/0b533/ArduinoCommunityLogo-up.png"30" alt="Arduino Community logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
   <img width="12" />
