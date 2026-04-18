@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20260401142423806.svg" height="30" alt="MATLAB logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
   <img width="12" />
