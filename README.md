@@ -11,7 +11,7 @@
 <!--* 👨‍💻 My portofolio avalible at: https:// -->
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="C++ logo"  />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="30" alt="C++ logo"  />
   <img width="12" />
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="30" alt="python logo"  />
   <img width="12" />
