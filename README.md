@@ -35,4 +35,4 @@
 
 ### Stats ⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeeloown&layout=compact&theme=transparent)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meeeloown&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meeeloown&layout=compact)
