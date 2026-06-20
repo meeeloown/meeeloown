@@ -5,7 +5,7 @@
    
 ### About Me 📄
 * 😎  Hi, I’m **@meeeloown**
-* 🌱 I’m currently learning Embedded Systems and Robotics Enthusiast
+* 🌱 I’m currently learning Embedded Systems, Robotics Enthusiast and Prompt Engineering
 * 👨‍💻 My portfolio is available at: https://meeeloown.github.io/portofolio-1-grapesJS/
 
 <div align="left">
