@@ -18,7 +18,7 @@
   <img width="12" />
   
   <!-- MATLAB -->
-  <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20260401142423806.svg" height="30" alt="MATLAB logo" style="background-color: rgba(255,255,255,0.9); padding: 2px; border-radius: 4px;" />
+  <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-rev.20260401142423806.svg" height="30" alt="MATLAB logo" />
   <img width="12" />
   
   <!-- Jupyter -->
@@ -42,7 +42,7 @@
   <img width="12" />
   
   <!-- GitHub (Sering hilang di tema gelap) -->
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="filter: drop-shadow(0px 0px 4px #fff);" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
   <img width="12" />
   
   <!-- CX Programmer -->
