@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm M. Aris Santo 👋</h1>
+<h1 align="center">Hi there, I'm M. Aris Sant 👋</h1>
 
 <h3 align="center">Mechatronics Engineer | IoT & Embedded Systems | ML/DL Enthusiast | Robotics | Prompt Engineering</h3>
 
