@@ -78,13 +78,13 @@ I believe the most exciting systems lie at the intersection of **hardware and in
 ### 📌 Featured Projects
 
 <!--
-  Ganti bagian di bawah ini dengan proyek unggulanmu.
-  Contoh format:
+  Bagian ini diisi dengan proyek saya.
+  Contoh:
   - [Nama Proyek](link-repo) — deskripsi singkat 1 baris tentang proyek tersebut.
 -->
 
 - 🔗 [Portfolio Website](https://meeeloown.github.io/portofolio-1-grapesJS/) — Personal portfolio built with GrapesJS.
-- 🚧 _Add your featured project here_
+- 🚧 [Voice Command](https://github.com/meeeloown/voiceCommand-recognition_SFTF-CNN) — Personal Project built with TensorFlow.
 - 🚧 _Add your featured project here_
 
 ---
