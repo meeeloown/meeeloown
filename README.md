@@ -121,5 +121,5 @@ I believe the most exciting systems lie at the intersection of **hardware and in
 </p>
 
 <p align="center">
-  <i>“@2026 • The most exciting systems live at the intersection of hardware and intelligence.”</i>
+  <i>@2026 • meeeloown</i>
 </p>
