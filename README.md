@@ -3,7 +3,7 @@
 <h3 align="center">Mechatronics Engineer | IoT & Embedded Systems | ML/DL Enthusiast | Robotics | Prompt Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+at+the+edge;Bridging+Hardware+%26+Machine+Learning;Embedded+Systems+%26+Robotics+Enthusiast;Always+learning%2C+always+tinkering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+at+the+edge;Bridging+Hardware+%26+Machine+Learning;Embedded+Systems+%2B+Robotics+Enthusiast;Always+learning%2C+always+tinkering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -92,16 +92,17 @@ I believe the most exciting systems lie at the intersection of **hardware and in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meeeloown&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeeloown&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meeeloown&theme=tokyonight&hide_border=true" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meeeloown&theme=tokyo-night&hide_border=true" />
+</p>
+-->
+
+<p align="center">
+  <img src="./assets/thank-you-contrib.svg" alt="Thank you - contribution graph animation" />
 </p>
 
 ---
@@ -118,5 +119,5 @@ I believe the most exciting systems lie at the intersection of **hardware and in
 </p>
 
 <p align="center">
-  <i>“The most exciting systems live at the intersection of hardware and intelligence.”</i>
+  <i>“@2026 • The most exciting systems live at the intersection of hardware and intelligence.”</i>
 </p>
