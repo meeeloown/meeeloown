@@ -86,8 +86,8 @@ I believe the most exciting systems lie at the intersection of **hardware and in
 -->
 
 - 🔗 [Portfolio Website](https://meeeloown.github.io/portofolio-1-grapesJS/) — Personal portfolio built with GrapesJS.
-- 🚢 [Voice Command](https://github.com/meeeloown/voiceCommand-recognition_SFTF-CNN) — Personal Project built with TensorFlow.
-- 🎤 [Robot Ship](https://github.com/meeeloown/roboticShip_ESP-NOW) — Personal Project built with ESP32 & ESP-NOW.
+- 🎤 [Voice Command](https://github.com/meeeloown/voiceCommand-recognition_SFTF-CNN) — Personal Project built with TensorFlow.
+- 🚢 [Robot Ship](https://github.com/meeeloown/roboticShip_ESP-NOW) — Personal Project built with ESP32 & ESP-NOW.
 
 ---
 
